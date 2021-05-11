@@ -1,0 +1,23 @@
+1. install  node js {npm automatic} -> https://nodejs.org/en/download/
+2. git install
+
+
+how to setup this project
+1. git clone <repo-link>
+2. cd html-tut
+3. npm install
+4. npm start
+
+for creating app -> npx create-react-app <app-name>
+
+-> boiler plate code
+import React from "react";
+
+const DayTwo = () =>{
+    return(
+        <div>
+            <h1>this is from two</h1>
+        </div>
+    )
+}
+export default DayTwo

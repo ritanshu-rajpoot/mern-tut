@@ -1,0 +1,32 @@
+
+
+/*how to select a class*/
+.section-1-day-1{
+    background-color: green;
+    color: white;
+}
+.section-1-day-1 h1{
+    background-color: black;
+}
+.mt-2{
+    margin-top: 15px;
+    padding: 10px;
+}
+.section-2-day-1{
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+ /*how to select id*/
+#h1-id{
+    font-size: 20px;
+}
+/*selecting a tag directly*/
+/*p{*/
+/*    font-size: 20px;*/
+/*}*/
+
+#thisisId{
+
+}
