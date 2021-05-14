@@ -1,0 +1,40 @@
+nav{
+    background: linear-gradient(45deg,black,darkslategrey);
+    padding: 5px;
+    box-shadow: 0 0 10px black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.active{
+    background: linear-gradient(45deg,orangered,red);
+}
+.anchor{
+    /*border: 3px solid red;*/
+    /*padding-bottom: 10px;*/
+    /*padding-top: 10px;*/
+    /*padding-left: 25px;*/
+    /*padding-right: 25px;*/
+    padding: 10px 25px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.anchor:hover{
+    background-color: orangered;
+    color: white;
+}
+.section-day-2{
+
+}
+.section-day-2 h1{
+    text-align: center;
+}
+.contents{
+    padding: 30px;
+    font-family:Arial sans-serif;
+    font-size: 20px;
+    background: linear-gradient(45deg,gray,lightcyan);
+}
